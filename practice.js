@@ -105,7 +105,6 @@
 // arr.splice(1, 2);
 // console.log(arr);
 //hello
-printf("Hello");
 
 
 const numbers = [2,8,5];
